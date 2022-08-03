@@ -1,0 +1,23 @@
+{
+  "name": "zenn-contents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preview": "zenn preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/typebase-inc/zenn-contents.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/typebase-inc/zenn-contents/issues"
+  },
+  "homepage": "https://github.com/typebase-inc/zenn-contents#readme",
+  "dependencies": {
+    "zenn-cli": "0.1.115"
+  }
+}
