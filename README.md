@@ -9,3 +9,15 @@ https://zenn.dev/typebase
 ```
 yarn
 ```
+
+## New article
+
+```
+yarn new:article
+```
+
+## Preview
+
+```
+yarn preview
+```
