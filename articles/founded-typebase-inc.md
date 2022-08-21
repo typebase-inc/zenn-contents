@@ -3,7 +3,7 @@ title: "株式会社Typebaseを創業しました"
 emoji: "🙌"
 type: "idea"
 topics: ["起業"]
-published: false
+published: true
 ---
 
 ![](/images/founded-typebase-inc/logo-landscape.png)
