@@ -7,9 +7,6 @@
     "new:article": "zenn new:article",
     "preview": "zenn preview"
   },
-  "dependencies": {
-    "zenn-cli": "0.1.117"
-  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/typebase-inc/zenn-contents.git"
@@ -18,6 +15,9 @@
     "url": "https://github.com/typebase-inc/zenn-contents/issues"
   },
   "homepage": "https://github.com/typebase-inc/zenn-contents#readme",
+  "dependencies": {
+    "zenn-cli": "0.1.125"
+  },
   "devDependencies": {
     "textlint": "12.2.1",
     "textlint-filter-rule-comments": "1.2.2",

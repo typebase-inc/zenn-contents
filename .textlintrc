@@ -3,7 +3,11 @@
     "comments": true
   },
   "rules": {
-    "preset-japanese": true,
+    "preset-japanese": {
+      "sentence-length": {
+        "max": 150
+      }
+    },
     "preset-ja-spacing": {
       "ja-space-between-half-and-full-width": {
         "space": "always"
