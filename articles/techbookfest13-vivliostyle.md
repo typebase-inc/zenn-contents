@@ -3,7 +3,7 @@ title: "技術書典13の執筆環境にVivliostyleを採用しました"
 emoji: "📚"
 type: "tech"
 topics: ["vivliostyle", "markdown", "vfm", "css組版", "技術書典"]
-published: false
+published: true
 ---
 
 こんにちは。[株式会社Typebase](https://typebase.dev/) の代表でエンジニアの寺嶋（[@y_temp4](https://twitter.com/y_temp4)）です。
