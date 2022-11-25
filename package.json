@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "✍️ Zenn contents of Typebase Inc.",
   "main": "index.js",
+  "license": "Apache License 2.0",
   "scripts": {
     "new:article": "zenn new:article",
     "preview": "zenn preview"
